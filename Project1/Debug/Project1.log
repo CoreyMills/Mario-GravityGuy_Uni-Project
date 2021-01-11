@@ -1,0 +1,24 @@
+﻿  GameScreenLevel2.cpp
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(55): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(109): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(182): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(184): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(191): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(194): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(197): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(200): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(214): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(233): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(247): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(262): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(300): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(308): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(316): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(341): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+d:\documents\visual studio\project1\project1\gamescreenlevel2.cpp(363): warning C4715: 'GameScreenLevel2::SetUpLevel': not all control paths return a value
+  Project1.vcxproj -> D:\Documents\Visual Studio\Project1\Debug\Project1.exe
